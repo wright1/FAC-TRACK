@@ -6,7 +6,7 @@
 #### Jason, Charmaine, Martin, Hannah
 
 ### About 📝
-Founders and Coders is a 16 week coding BootCamp. Every week (for eight the first eight weeks) students are asked to complete numberous workshops/challenges around a specific web-development subject.
+Founders and Coders is a 16 week coding BootCamp. Every week (for the first eight weeks) students are asked to complete numberous workshops/challenges around a specific web-development subject.
 These workshop/challenges are created to stretch and challenge students knowledge which means they are often started but not completed. 
 
 The purpose of our app is to monitor a students progress and confidence around every workshop/challenge. The hope is that this information will support a students learning. It helps to identify any gaps in knowledge and enables a student to easily revisit workshops/challenges they may want to revisit or complete at a later date.
